@@ -1,3 +1,7 @@
+.rise-enabled {
+    background-color: #fff;
+}
+
 #rise-header {
     width: 100%;
     text-align: right;
