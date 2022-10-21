@@ -2,7 +2,7 @@
 
 MSc lecture at TU Darmstadt, etit, TEMF by Adrian Oeftiger in 2022.
 
-First part of a jupyter notebook lecture series, held on 22.10.2022.
+First part of a jupyter notebook lecture series, held on 21.10.2022.
 
 ## Run online
 
