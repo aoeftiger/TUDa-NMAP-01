@@ -7,7 +7,6 @@ np.random.seed(0)
 
 import matplotlib
 import matplotlib.pyplot as plt
-from tqdm.notebook import tqdm
 
 import seaborn as sns
 sns.set_context('talk', font_scale=1.2, rc={'lines.linewidth': 3})
